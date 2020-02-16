@@ -1,0 +1,103 @@
+head,body {margin:0px;padding:0px;font-family:Arial}
+
+.MainBlock {
+    height:960px;width:1300px;margin:0px auto;
+}
+
+ul {
+    display:block;list-style: none;padding:0px;margin:0px
+}
+li:hover {color:red; cursor:pointer;}
+li {
+    display:inline-block;
+}
+h1 {
+    display:inline-block;padding:0px;margin:0px;font-family:impact;font-weight:100;font-size:48px;color:black;
+}
+
+h2 {
+    display:block;padding:0px;margin:0px
+}
+.SpaceLeft {padding-left:30px}
+.SpaceTop10 {padding-top:15px}
+.SpaceTop30 {padding-top:30px;color:black;}
+.SpaceTop35 {padding-top:35px;color:rgba(149,149,149,1);}
+
+.NavigationBar {
+    width:20%;height:900px;background:white;display:inline-block;color:rgba(149,149,149,1);
+}
+
+
+.Logo {
+    background:white;height:55px;width:100%;
+}
+.YoutubeLogo {
+    color:red;font-size:58px;margin:0px;
+}
+
+.Group1 {
+    background:white;border:1px solid white;height: 160px;width:100%
+}
+.NavigationBarLogo {color:rgba(149,149,149,1);font-size:20px}
+
+.Group2 {
+    background:white;border:1px solid white;height: 160px;width:100%
+}
+
+.Group3 {
+    background:white;border:1px solid white;height: 210px;width:100%
+}
+
+.Group4 {
+    background:white;border:1px solid white;height: 210px;width:100%
+}
+
+
+.ContentBar {
+    width:76%;height:900px;float:right;background:white;
+padding-right:0px;padding-left:25px}
+
+.Header {
+    width:100%;height:10%;border:1px solid white;background:white;
+}
+.SearchBox {
+    height:40px;width:300px;border:1px solid rgba(243,243,243,1);margin-top:20px;border-left:0px;line-height: 40px;border-radius: 8px;background:rgba(243,243,243,1);color:rgba(182,182,182,1)
+}
+.SearchLogo {
+    margin-left:10px;background:rgba(243,243,243,1);display:inline-block;height:29px;width:40px;border:1px solid rgba(243,243,243,1);line-height: 40px;border-right:0px;text-align:center;padding-top:10px;border-radius: 8px;color:rgba(182,182,182,1)
+}
+.RedBox {
+    height:40px;width:160px;background:red;color:white;text-align: center;line-height: 40px;float:right;margin:20px 0px;border-radius:8px;
+}
+.HeaderImage {
+    background-image:url(../Images/Image1.png);float:right;height:40px;width:70px;background-repeat: no-repeat;margin:20px 5px
+}
+
+.Container {
+    width:100%;height:20%;border:1px solid white;background:white;
+}
+.ContainerImage {
+    background-image:url(../Images/YouTubers81.png);width:100%;height:98px;
+    background-repeat: no-repeat;margin:auto;background-size: cover
+}
+
+
+.Content1 {
+    width:100%;height:35%;border:1px solid white;background:white;
+}
+.ContentVideo
+          {
+              display:inline-block;
+              width:300px;
+              height:250px;
+              border:1px solid white;
+              margin:15px 10px 0px 0px;
+              
+          }
+
+.Content2 {
+    width:100%;height:35%;border:1px solid white;background:white;
+}
+
+
+
